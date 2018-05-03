@@ -1,0 +1,21 @@
+/* Your custom styles */
+.background_stuff{
+background-color: #e8d081!important;
+}
+
+.navbar_color {
+    background-color: #d0ac3f!important;
+    
+}
+.title{
+	background-color: #dddddd!important;
+}
+.jerrys_name{
+	font-family: Roboto;
+	background-color: #dddddd!important;
+
+}
+.jerrys_bio{
+	background-color: #dddddd!important;
+	/*font-size: 18px;*/
+}
